@@ -24,7 +24,6 @@ This project implements a tabular Q-learning controller for an intelligent braki
 ├── simulate.py               # Braking simulation and animation
 ├── Q_table.npy               # Saved Q-table (auto-generated)
 ├── braking_simulation.mp4    # Full animation output (auto-generated)
-├── report.pdf                # Optional: technical write-up
 └── README.md                 # Project overview and instructions
 ```
 
